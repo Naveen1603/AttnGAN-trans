@@ -103,7 +103,7 @@ GPT3 and GAN architectures like DF-GAN, DMGAN for TTI generation </p>
   
 <div class="container-footer">
   © 2021 Copyright:
-  <a class="text-dark" href="#">NoOne</a>
+  <a class="text-dark" href="#">tti@b170</a>
 </div>
 
   
