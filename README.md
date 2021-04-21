@@ -37,7 +37,7 @@ Soon, the complete work will be updated in this repo. --->
    <img class = "myImg1" src="https://github.com/Naveen1603/AttnGAN-trans/blob/main/imgs/A1.png"  width="600px">
    <h5>Fig.1: Transformer infused text encoder model.</h5>
 <br>
-        <img class = "myImg2" src=""https://github.com/Naveen1603/AttnGAN-trans/blob/main/imgs/A5.png" width="800px">
+        <img class = "myImg2" src="https://github.com/Naveen1603/AttnGAN-trans/blob/main/imgs/A5.png" width="800px">
         <h5>Fig.2: A Transformer architecture with L encoder blocks and L decoder blocks, along with the encoder block components.</h5>
 <br>
    <p>Transformers uses the attention-mechanism which determines the essential parts of the sequence 
@@ -45,7 +45,7 @@ Soon, the complete work will be updated in this repo. --->
     an encoder-decoder structure which are stacked up high using attention layers. BERT, GPT2 and XLNet 
     mainly vary each other in the number of attention layer count and embeddings dimensions.
  </p>8
-    <img class = "myImg3" src=""https://github.com/Naveen1603/AttnGAN-trans/blob/main/imgs/A4.png" width="800px">
+    <img class = "myImg3" src="https://github.com/Naveen1603/AttnGAN-trans/blob/main/imgs/A4.png" width="800px">
     <h5>Fig.3: The proposed AttnGAN<sub>TRANS</sub> architecture for fine-grained text to image generation.</h5>
 <br>
 <h3>Experimental Setup</h3>
@@ -58,7 +58,7 @@ free GPUs provided to test the results. The comparision of model performances is
 </p>
 <br>
 <h3>Qualitative Results</h3>
-    <img class = "myImg4" src=""https://github.com/Naveen1603/AttnGAN-trans/blob/main/imgs/Birds.jpg" >
+    <img class = "myImg4" src="https://github.com/Naveen1603/AttnGAN-trans/blob/main/imgs/Birds.jpg" >
     <h5>Fig.4: Example results of different TTI generation models trained on CUB dataset</h5>
 <br>
 <h3>Quantitative Results</h3>
@@ -68,11 +68,11 @@ free GPUs provided to test the results. The comparision of model performances is
         our proposed models. Blue, purple, red corresponding to the
         first, second, third top results.</h5>
 <br>
-    <img class = "myImg6" src=""https://github.com/Naveen1603/AttnGAN-trans/blob/main/imgs/A2.jpeg" width="600px">
+    <img class = "myImg6" src="https://github.com/Naveen1603/AttnGAN-trans/blob/main/imgs/A2.jpeg" width="600px">
     <h5>Fig.5: Inception Score (IS) plot of proposed AttnGANTRANS model, taken over 700 epochs on CUB
         dataset.</h5>
 <br>
-    <img class = "myImg6" src=""https://github.com/Naveen1603/AttnGAN-trans/blob/main/imgs/A3.jpeg" width="600px">
+    <img class = "myImg6" src="https://github.com/Naveen1603/AttnGAN-trans/blob/main/imgs/A3.jpeg" width="600px">
     <h5>Fig.6: FID plot of proposed AttnGANTRANS model, taken
         over 700 epochs on CUB dataset.</h5>
 <br>
