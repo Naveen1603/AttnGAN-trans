@@ -62,7 +62,7 @@ free GPUs provided to test the results. The comparision of model performances is
     <h5>Fig.4: Example results of different TTI generation models trained on CUB dataset</h5>
 <br>
 <h3>Quantitative Results</h3>
-    <img class = "myImg5" src=""https://github.com/Naveen1603/AttnGAN-trans/blob/main/imgs/table.jpg" width="600px">
+    <img class = "myImg5" src="https://github.com/Naveen1603/AttnGAN-trans/blob/main/imgs/table.jpg" width="600px">
     <h5>Table showing the quality comparison of different models with IS and FID scores. Here
         a horizontal line is separating the state-of-the-art methods with
         our proposed models. Blue, purple, red corresponding to the
